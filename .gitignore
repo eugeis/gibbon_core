@@ -1,2 +1,5 @@
 uploads/*
 /config.php
+/.settings/
+/.buildpath
+/.project
